@@ -1,18 +1,2 @@
 
 /* Your CSS Code here. */
-
-.heading{
-    padding: 20px;
-    font-weight: 100;
-}
-
-.table .thead-dark{
-    background-color: black;
-    color: white;
-}
-
-#total{
-    font-family: monospace;
-    font-weight: bold;
-    text-align: end;
-}
